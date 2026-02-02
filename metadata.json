@@ -1,0 +1,8 @@
+
+{
+  "name": "Damindu | Professional Graphic Designer Portfolio",
+  "description": "The professional portfolio of Damindu, a Graphic Designer and ICT student based in Sri Lanka, focusing on visual identity and digital solutions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
